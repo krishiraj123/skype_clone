@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+  margin: 0.5rem;
+  height: 45rem;
+}
+
+.card-wrapper {
+  display: flex;
+}
+
+.text-wrapper {
+  height: 10rem;
+  font-size: 1rem;
+  margin-bottom: 7rem;
+}
