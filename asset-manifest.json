@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skype_clone/static/css/main.6e396f45.css",
+    "main.js": "/skype_clone/static/js/main.f9ea6cbb.js",
+    "index.html": "/skype_clone/index.html",
+    "main.6e396f45.css.map": "/skype_clone/static/css/main.6e396f45.css.map",
+    "main.f9ea6cbb.js.map": "/skype_clone/static/js/main.f9ea6cbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e396f45.css",
+    "static/js/main.f9ea6cbb.js"
+  ]
+}
